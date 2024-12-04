@@ -1,3 +1,7 @@
+.tiktokvidio {
+    position: fixed;
+    z-index: 500;
+}
 
 .shizuru-regular {
     font-family: "Shizuru", serif;
